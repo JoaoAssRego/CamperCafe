@@ -26,6 +26,14 @@ h1 + p {
   font-style: italic;
 }
 
+hr {
+  height: 3px;
+  background-color: brown;
+  border-color: brown;
+  margin: 20px auto;
+  border: 0;
+  height: 2px;
+}
 .menu {
   width: 80%;
   background-color: burlywood;
