@@ -1,29 +1,29 @@
 # Camper Cafe
 
-Este repositório contém o projeto **Camper Cafe**, desenvolvido como parte do curso de **Responsive Web Design** do [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/).
+This repository contains the **Camper Cafe** project, developed as part of the [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/) **Responsive Web Design** course.
 
-## Objetivo do Projeto
+## Project Objective
 
-O objetivo deste projeto é construir o menu de uma cafeteria chamado Camper Cafe. Através deste projeto, os seguintes conceitos e habilidades fundamentais de desenvolvimento web são aplicados e praticados:
+The goal of this project is to build a cafe menu called Camper Cafe. Through this project, the following fundamental web development concepts and skills are applied and practiced:
 
-- **HTML5:** Estruturação semântica da página, incluindo cabeçalhos, seções, listas e rodapé.
-- **CSS3 Básico e Avançado:** Estilização de elementos, tipografia, cores, margens, preenchimentos e posicionamento.
-- **Design Responsivo:** Criação de um layout que se adapta a diferentes tamanhos de tela.
+- **HTML5:** Semantic page structuring, including headers, sections, lists, and footer.
+- **Basic and Advanced CSS3:** Element styling, typography, colors, margins, padding, and positioning.
+- **Responsive Design:** Creating a layout that adapts to different screen sizes.
 
-## Links Úteis
+## Useful Links
 
-- **Curso:** [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- **Workshop/Projeto:** [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
+- **Course:** [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+- **Workshop/Project:** [Learn Basic CSS by Building a Cafe Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/)
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
 
-## Como visualizar o projeto
+## How to view the project
 
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
    git clone https://github.com/JoaoAssRego/CamperCafe.git
    ```
-2. Abra o arquivo `index.html` no seu navegador de preferência.
+2. Open the `index.html` file in your preferred web browser.
