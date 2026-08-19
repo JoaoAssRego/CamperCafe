@@ -6,6 +6,8 @@ body {
 
 h1 {
   font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 15px;
 }
 
 h2 {
@@ -27,6 +29,14 @@ h1 + p {
   font-style: italic;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-top: -25px;
+}
+
 hr {
   height: 3px;
   background-color: brown;
@@ -34,6 +44,7 @@ hr {
   margin: 20px auto;
   border: 0;
   height: 2px;
+  margin-top: 25px;
 }
 .menu {
   width: 80%;
@@ -48,4 +59,37 @@ hr {
   display: flex;
   justify-content: space-between;
   padding: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+/*FOOTER*/
+
+footer {
+  font-size: 14px;
+}
+
+address {
+  font-style: normal;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: brown;
+}
+
+a:active {
+  color: brown;
+}
+
+.address {
+  margin-bottom: 5px;
 }
